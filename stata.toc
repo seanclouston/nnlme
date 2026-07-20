@@ -1,0 +1,7 @@
+v 3
+d Package Name: This is a Nested Non-Linear Mixed Effects modeling package. It implements a specific function in MENL to help establish the onset of cognitive decline consistent with Alzheimer's Disease. 
+d Materials by Sean Clouston
+d Support: sean.clouston@stonybrookmedicine.edu
+
+d GitHub: https://github.com/seanclouston/nnlme
+p nnlme Non-linear Linear Mixed Effects
