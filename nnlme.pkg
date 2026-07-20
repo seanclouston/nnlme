@@ -1,0 +1,11 @@
+v 3
+d 'NNLME': Nested Non-Linear Mixed Effects
+d
+d Distribution-Date: 20260720
+d License: Stony Brook University
+d
+d KW: statistics
+d KW: data management
+d
+f nnlme.ado
+f nnlme.sthlp
