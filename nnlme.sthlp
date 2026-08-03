@@ -46,6 +46,9 @@ The model is implemented using {opt MENL} so there are an array of general optio
 {pstd}
 See {manhelp menl ME:menl} for other available features during estimation.{p_end}
 
+{title:Implementation Notes}
+The ID variable cannot be a string.  
+
 {marker results}{...}
 {title:Stored results}
 
@@ -160,5 +163,3 @@ at the hierarchical level k - {it:#} + 1 in a k-level model{p_end}
 {p2col 5 23 26 2: Functions}{p_end}
 {synopt:{cmd:e(sample)}}marks estimation sample{p_end}
 {p2colreset}{...}
-
-INCLUDE help rtable
